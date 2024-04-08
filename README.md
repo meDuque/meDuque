@@ -57,6 +57,6 @@
 
 #
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/alexmarquesalves/alexmarquesalves/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexmarquesalves/alexmarquesalves/output/github-contribution-grid-snake.svg) -->
 
 </div>
