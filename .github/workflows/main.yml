@@ -3,25 +3,23 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */1 * * *" 
-  
+    - cron: "0 */24 * * *"
+
   # allows to manually run the job at any time
   workflow_dispatch:
-  
+
   # run on every push on the master branch
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       # Snake Animation
       - name: generate github-contribution-grid-snake.svg
