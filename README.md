@@ -19,10 +19,10 @@
 
  <div align="center" >
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alexmarquesalves&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarquesalves&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=meDuque&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meDuque&layout=compact&langs_count=7&theme=midnight-purple"/>
   <br/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmarquesalves&theme=midnight-purple&hide_border=false" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=meDuque&theme=midnight-purple&hide_border=false" />
   </div>
 
 <img align="right" alt="Alex-pic" height="150" style="border-radius:20px;" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1640308449/Marquez_Family_e18cf0c3fd.png?660979.3999999994">
@@ -60,15 +60,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alexmarquesalves/alexmarquesalves/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/meDuque/meDuque/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alexmarquesalves/alexmarquesalves/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/meDuque/meDuque/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/alexmarquesalves/alexmarquesalves/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/meDuque/meDuque/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
